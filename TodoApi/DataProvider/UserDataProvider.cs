@@ -12,7 +12,6 @@ namespace User.DataProvider
 {
     public class UserDataProvider : IUserDataProvider{
 
-        private readonly string connectionString = "Data Source=(local);Initial Catalog=TestApiDb;Persist Security Info=True;User ID=sa;Password=admindamsa02";
 
         //private SqlConnection sqlConnection;
 
