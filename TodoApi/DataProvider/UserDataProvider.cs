@@ -12,7 +12,6 @@ namespace User.DataProvider
 {
     public class UserDataProvider : IUserDataProvider{
 
-
         //private SqlConnection sqlConnection;
 
         public async Task AddUser(Users user){
